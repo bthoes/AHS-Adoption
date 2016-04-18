@@ -107,7 +107,6 @@ body {
     min-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    border: 1px solid black;
     font-family: "Roboto";
     margin-top: 0;
     font-size: 1.2em;
@@ -116,6 +115,14 @@ body {
 
 .page-content {
   position: relative;
+}
+
+/* Banner */
+.banner img {
+    display: block;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Header */
@@ -158,13 +165,14 @@ body {
 
 .page-header .social {
     position: absolute;
-    font-size: 1.5em;
-    right: .9em;
-    top: 65%;
+    font-size: 1em;
+    right: 2em;
+    top: 35%;
 }
 
-.page-header .social i {
+.page-header a i {
     color: #fff;
+    padding: 1em;
 }
 
 /* Main-Content */

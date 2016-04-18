@@ -132,7 +132,7 @@ body {
     color: #fff;
     text-transform: uppercase;
     margin-bottom: 1em;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .page-header ul {
@@ -149,7 +149,7 @@ body {
     text-decoration: none;
     padding: .75em;
     margin: 1em;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 
 #donate {
@@ -158,7 +158,7 @@ body {
 
 .page-header .social {
     position: absolute;
-    font-size: 2em;
+    font-size: 1.5em;
     right: .9em;
     top: 65%;
 }
@@ -205,7 +205,7 @@ body {
 }
 
 .ahs-info h3 {
-    font-size: 1.5em;
+    font-size: 1em;
 }
 }
 
@@ -218,7 +218,7 @@ a .ahs-info {
 }
 
 .facts h2 {
-    font-size: 2.5em;
+    font-size: 1.5em;
     font-family: "Baskerville";
     font-weight: normal;
     color: #0285ae;;
@@ -233,7 +233,7 @@ a .ahs-info {
 }
 
 .bio h3 {
-    font-size: 1.5em;
+    font-size: 1em;
     font-family: "Baskerville";
     color: #ef984e;
     font-weight: normal;
